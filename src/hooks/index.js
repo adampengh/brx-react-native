@@ -1,1 +1,1 @@
-export { default as useBrxmPage } from './useBrxmPage';
+export { default as useBrxPage } from './useBrxPage';
